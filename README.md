@@ -55,15 +55,16 @@ AWS (EC2 · ECS · S3 · Lambda) · Docker · Kubernetes · Kafka · Jenkins · 
 
 ## GitHub Stats
 
-![Parinita's GitHub Stats] https://github-readme-stats-4fukwqey9-parinita-chinchalikar-s-projects.vercel.app/api?username=parinitaschinchalikar
+![Parinita's GitHub Stats](https://github-readme-stats-4fukwqey9-parinita-chinchalikar-s-projects.vercel.app/api?username=parinitaschinchalikar)
 
-![Top Languages] https://github-readme-stats-4fukwqey9-parinita-chinchalikar-s-projects.vercel.app/api?username=parinitaschinchalikar
+![Top Languages](https://github-readme-stats-4fukwqey9-parinita-chinchalikar-s-projects.vercel.app/api?username=parinitaschinchalikar)
 
 
 
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parinitachinchalikar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/parinitachinchalikar/)
+
 [![Email](https://img.shields.io/badge/Email-parinita.chinchalikar@gmail.com-D14836?style=flat&logo=gmail)](mailto:parinita.chinchalikar@gmail.com)
 
 📍 New York, USA · She/Her
