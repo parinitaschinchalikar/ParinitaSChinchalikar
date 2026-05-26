@@ -54,11 +54,9 @@ AWS (EC2 · ECS · S3 · Lambda) · Docker · Kubernetes · Kafka · Jenkins · 
 
 
 ## GitHub Stats
+![Parinita's GitHub Stats](https://github-readme-stats-tan-rho-97.vercel.app/api?username=parinitaschinchalikar&show_icons=true&hide_border=true&theme=default&hide=stars)
 
-![Parinita's GitHub Stats](https://github-readme-stats-4fukwqey9-parinita-chinchalikar-s-projects.vercel.app/api?username=parinitaschinchalikar)
-
-![Top Languages](https://github-readme-stats-4fukwqey9-parinita-chinchalikar-s-projects.vercel.app/api?username=parinitaschinchalikar)
-
+![Top Languages](https://github-readme-stats-tan-rho-97.vercel.app/api/top-langs/?username=parinitaschinchalikar&layout=compact&hide_border=true&theme=default)
 
 
 ## Let's Connect
