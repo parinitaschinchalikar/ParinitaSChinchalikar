@@ -36,9 +36,9 @@ AWS (EC2 · ECS · S3 · Lambda) · Docker · Kubernetes · Kafka · Jenkins · 
 
 | Project | Stack | What It Does |
 |---|---|---|
-| [Multi-Tenant RAG API](#) | Java · Spring Boot · Milvus · LangChain4j | Per-tenant document Q&A with isolated vector namespaces and JWT auth |
-| [Event Routing Engine](#) | Java · Kafka · Spring Boot · OpenAI API | LLM-enriched event pipeline with configurable downstream routing |
-| [Support Intelligence Pipeline](#) | Python · FastAPI · LangChain · ChromaDB | Classifies, scores, and semantically searches customer tickets |
+| [Multi-Tenant RAG API](https://github.com/parinitaschinchalikar/Multi-Tenant-RAG-API) | Java · Spring Boot · Milvus · LangChain4j | Per-tenant document Q&A with isolated vector namespaces and JWT auth |
+| [Event Routing Engine](https://github.com/parinitaschinchalikar/Event-Routing-Engine) | Java · Kafka · Spring Boot · OpenAI API | LLM-enriched event pipeline with configurable downstream routing |
+| [Support Intelligence Pipeline](https://github.com/parinitaschinchalikar/Support-Intelligence-Pipeline) | Python · FastAPI · LangChain · ChromaDB | Classifies, scores, and semantically searches customer tickets |
 | [Patient Tracking System](https://github.com/parinitaschinchalikar/Patient-Medicine-and-Appointment-Tracking-System) | Java · Spring Boot · MySQL | Hospital admission and post-discharge management backend |
 | [Political Trend Analysis](https://github.com/parinitaschinchalikar/Analysis-of-Political-Trends-on-Social-Media) | Python · NLP | Social media sentiment and trend analysis across political topics |
 
