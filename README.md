@@ -2,24 +2,24 @@
 
 **Backend Engineer · Distributed Systems · LLM-Powered Applications**
 
-I build production-grade backend systems — microservices, RAG pipelines, event-driven architectures, and cloud-native deployments. Currently focused on AI integration in real-world backend workflows: retrieval systems, agentic pipelines, and LLM APIs that actually ship.
+I build production-grade backend systems —> microservices, RAG pipelines, event-driven architectures, and cloud-native deployments. Currently focused on AI integration in real-world backend workflows: retrieval systems, agentic pipelines, and LLM APIs that actually ship.
 
 
 ## What I Work With
 
-**Languages**
+**Languages : **
 Java · Python · JavaScript · C#
 
-**Backend & Frameworks**
+**Backend & Frameworks : **
 Spring Boot · FastAPI · REST APIs · Microservices · Hibernate
 
-**AI & LLM**
+**AI & LLM : **
 LangChain · RAG Pipelines · Vector Search · Embeddings · Hugging Face · Prompt Engineering · Milvus
 
-**Databases**
+**Databases : **
 PostgreSQL · MySQL · Cassandra · SQL Server
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure : **
 AWS (EC2 · ECS · S3 · Lambda) · Docker · Kubernetes · Kafka · Jenkins · CI/CD
 
 
