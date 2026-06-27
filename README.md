@@ -27,9 +27,13 @@ An agentic incident-triage service built around a self-written **MCP server**. T
 ## Tech I work with
 
 **Languages:** Python, Java, JavaScript, C
+
 **Backend:** Spring Boot, FastAPI, REST APIs, microservices, Hibernate
+
 **Data & messaging:** PostgreSQL, MySQL, Cassandra, Milvus, Kafka
+
 **Cloud & infra:** AWS (EC2, ECS, S3, Lambda), Docker, Kubernetes, Jenkins, CI/CD
+
 **LLM / AI:** RAG, vector search, embeddings, MCP, prompt engineering, LangChain, Hugging Face
 
 ---
