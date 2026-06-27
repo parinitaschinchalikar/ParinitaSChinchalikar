@@ -1,3 +1,45 @@
+# Hi, I'm Parinita 👋
+
+Software Engineer working on **distributed systems, backend architecture, and LLM-powered applications**. I like building systems that stay correct under load and failure — fault-tolerant services, retrieval pipelines, and agentic workflows that do real multi-step work, not demos.
+
+- 🔧 Backend + distributed systems: microservices, APIs, message queues, cloud-native deploys
+- 🤖 LLM applications: agents, RAG, vector search, the Model Context Protocol (MCP)
+- 🧪 I care about the unglamorous parts: idempotency, observability, and evals that can actually fail
+
+---
+
+## 🚀 Featured project — Incident-Triage Agent
+
+An agentic incident-triage service built around a self-written **MCP server**. The agent investigates production alerts by calling tools over the Model Context Protocol — correlating deploys, metrics, logs, and runbooks — then writes a root-cause hypothesis and remediation.
+
+- Self-built MCP server (SSE) exposing 5 tools
+- Multi-step agent investigation loop
+- Fault tolerance: timeouts, retry-with-backoff, circuit breakers
+- Schema-level idempotency for at-least-once alert delivery
+- Structured request-id logging and a reproducible eval harness
+
+**Stack:** Python · MCP · FastAPI · SQLAlchemy · vector search · Docker · pytest
+
+➡️ **[View the project →](https://github.com/parinitaschinchalikar/incident-triage-agent)**
+
+---
+
+## 🛠️ Tech I work with
+
+**Languages:** Python, Java, C
+**Backend:** Spring Boot, FastAPI, REST APIs, microservices, Hibernate
+**Data & messaging:** PostgreSQL, MySQL, Cassandra, Milvus, Kafka
+**Cloud & infra:** AWS (EC2, ECS, S3, Lambda), Docker, Kubernetes, Jenkins, CI/CD
+**LLM / AI:** RAG, vector search, embeddings, MCP, prompt engineering, LangChain, Hugging Face
+
+---
+
+## 📫 Connect
+
+- LinkedIn: [in/parinitachinchalikar](https://www.linkedin.com/in/parinitachinchalikar/)
+- Email: parinita.chinchalikar@gmail.com
+
+<!--
 # Parinita Chinchalikar
 
 **Backend Engineer · Distributed Systems · LLM-Powered Applications**
